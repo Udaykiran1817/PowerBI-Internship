@@ -72,7 +72,7 @@ A card visual was used to represent Region Count
 
 # Snapshot of Dashboard (Power BI Service)
 
-![Dashboard](Dashboard View.jpeg)
+![Dashboard](https://github.com/Udaykiran1817/PowerBI-Internship/blob/2b7f532d93c00054c893636d69f3005487171492/Dashboard%20View.jpeg)
 
  
 # Snapshot of Dashboard (Power BI Service)
