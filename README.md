@@ -70,6 +70,10 @@ A card visual was used to represent Region Count
 
 ![Region Count](https://github.com/user-attachments/assets/e7011436-2cdf-429c-9bbb-732b10f02c47)
 
+# Snapshot of Dashboard (Power BI Service)
+
+![Dashboard](Dashboard View.jpeg)
+
  
 # Snapshot of Dashboard (Power BI Service)
 
